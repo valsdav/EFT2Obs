@@ -10,7 +10,7 @@ set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0001
-set smeft 11 0.05
+set smeft 11 0.5
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
@@ -20,7 +20,7 @@ set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0002
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
@@ -31,7 +31,7 @@ set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0003
 set smeft 11 0
-set smeft 10 0.05
+set smeft 10 0.5
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
@@ -41,7 +41,7 @@ set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0004
 set smeft 11 0
-set smeft 10 0.1
+set smeft 10 1
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
@@ -52,7 +52,7 @@ set smeft 19 0
 launch --rwgt_name=rw0005
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.05
+set smeft 12 0.5
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
@@ -62,7 +62,7 @@ set smeft 19 0
 launch --rwgt_name=rw0006
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.1
+set smeft 12 1
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
@@ -73,7 +73,7 @@ launch --rwgt_name=rw0007
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.05
+set smeft 13 0.5
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
@@ -83,7 +83,7 @@ launch --rwgt_name=rw0008
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.1
+set smeft 13 1
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
@@ -94,7 +94,7 @@ set smeft 11 0
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.05
+set smeft 31 0.5
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
@@ -104,7 +104,7 @@ set smeft 11 0
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.1
+set smeft 31 1
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
@@ -115,7 +115,7 @@ set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.05
+set smeft 17 0.5
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
@@ -125,7 +125,7 @@ set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.1
+set smeft 17 1
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
@@ -136,7 +136,7 @@ set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.05
+set smeft 23 0.5
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0014
@@ -146,7 +146,7 @@ set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.1
+set smeft 23 1
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0015
@@ -157,7 +157,7 @@ set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.05
+set smeft 2 0.5
 set smeft 19 0
 launch --rwgt_name=rw0016
 set smeft 11 0
@@ -167,7 +167,7 @@ set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0017
 set smeft 11 0
@@ -178,7 +178,7 @@ set smeft 31 0
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.05
+set smeft 19 0.5
 launch --rwgt_name=rw0018
 set smeft 11 0
 set smeft 10 0
@@ -188,10 +188,10 @@ set smeft 31 0
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0019
-set smeft 11 0.1
-set smeft 10 0.1
+set smeft 11 1
+set smeft 10 1
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
@@ -200,9 +200,9 @@ set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0020
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
-set smeft 12 0.1
+set smeft 12 1
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
@@ -210,57 +210,57 @@ set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0021
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.1
+set smeft 13 1
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0022
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.1
+set smeft 31 1
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0023
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.1
+set smeft 17 1
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0024
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.1
+set smeft 23 1
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0025
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0026
-set smeft 11 0.1
+set smeft 11 1
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
@@ -268,11 +268,11 @@ set smeft 31 0
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0027
 set smeft 11 0
-set smeft 10 0.1
-set smeft 12 0.1
+set smeft 10 1
+set smeft 12 1
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
@@ -281,9 +281,9 @@ set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0028
 set smeft 11 0
-set smeft 10 0.1
+set smeft 10 1
 set smeft 12 0
-set smeft 13 0.1
+set smeft 13 1
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
@@ -291,59 +291,59 @@ set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0029
 set smeft 11 0
-set smeft 10 0.1
+set smeft 10 1
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.1
+set smeft 31 1
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0030
 set smeft 11 0
-set smeft 10 0.1
+set smeft 10 1
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.1
+set smeft 17 1
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0031
 set smeft 11 0
-set smeft 10 0.1
+set smeft 10 1
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.1
+set smeft 23 1
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0032
 set smeft 11 0
-set smeft 10 0.1
+set smeft 10 1
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0033
 set smeft 11 0
-set smeft 10 0.1
+set smeft 10 1
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0034
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.1
-set smeft 13 0.1
+set smeft 12 1
+set smeft 13 1
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
@@ -352,9 +352,9 @@ set smeft 19 0
 launch --rwgt_name=rw0035
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.1
+set smeft 12 1
 set smeft 13 0
-set smeft 31 0.1
+set smeft 31 1
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
@@ -362,49 +362,49 @@ set smeft 19 0
 launch --rwgt_name=rw0036
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.1
+set smeft 12 1
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.1
+set smeft 17 1
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0037
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.1
+set smeft 12 1
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.1
+set smeft 23 1
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0038
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.1
+set smeft 12 1
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0039
 set smeft 11 0
 set smeft 10 0
-set smeft 12 0.1
+set smeft 12 1
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0040
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.1
-set smeft 31 0.1
+set smeft 13 1
+set smeft 31 1
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
@@ -413,9 +413,9 @@ launch --rwgt_name=rw0041
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.1
+set smeft 13 1
 set smeft 31 0
-set smeft 17 0.1
+set smeft 17 1
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
@@ -423,39 +423,39 @@ launch --rwgt_name=rw0042
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.1
+set smeft 13 1
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.1
+set smeft 23 1
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0043
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.1
+set smeft 13 1
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0044
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
-set smeft 13 0.1
+set smeft 13 1
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0045
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.1
-set smeft 17 0.1
+set smeft 31 1
+set smeft 17 1
 set smeft 23 0
 set smeft 2 0
 set smeft 19 0
@@ -464,9 +464,9 @@ set smeft 11 0
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.1
+set smeft 31 1
 set smeft 17 0
-set smeft 23 0.1
+set smeft 23 1
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0047
@@ -474,29 +474,29 @@ set smeft 11 0
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.1
+set smeft 31 1
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0048
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
-set smeft 31 0.1
+set smeft 31 1
 set smeft 17 0
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0049
 set smeft 11 0
 set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.1
-set smeft 23 0.1
+set smeft 17 1
+set smeft 23 1
 set smeft 2 0
 set smeft 19 0
 launch --rwgt_name=rw0050
@@ -505,9 +505,9 @@ set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.1
+set smeft 17 1
 set smeft 23 0
-set smeft 2 0.1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0051
 set smeft 11 0
@@ -515,10 +515,10 @@ set smeft 10 0
 set smeft 12 0
 set smeft 13 0
 set smeft 31 0
-set smeft 17 0.1
+set smeft 17 1
 set smeft 23 0
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0052
 set smeft 11 0
 set smeft 10 0
@@ -526,8 +526,8 @@ set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.1
-set smeft 2 0.1
+set smeft 23 1
+set smeft 2 1
 set smeft 19 0
 launch --rwgt_name=rw0053
 set smeft 11 0
@@ -536,9 +536,9 @@ set smeft 12 0
 set smeft 13 0
 set smeft 31 0
 set smeft 17 0
-set smeft 23 0.1
+set smeft 23 1
 set smeft 2 0
-set smeft 19 0.1
+set smeft 19 1
 launch --rwgt_name=rw0054
 set smeft 11 0
 set smeft 10 0
@@ -547,5 +547,5 @@ set smeft 13 0
 set smeft 31 0
 set smeft 17 0
 set smeft 23 0
-set smeft 2 0.1
-set smeft 19 0.1
+set smeft 2 1
+set smeft 19 1
